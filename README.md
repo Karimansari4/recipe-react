@@ -9,37 +9,42 @@ And the UI designed using Material UI (https://mui.com/material-ui/getting-start
 ### Recipe Search:
 
 #### Description: 
-                On the homepage, provide a search bar allowing users to seek recipes by entering keywords, such as ingredients or dish names.
+On the homepage, provide a search bar allowing users to seek recipes by entering keywords, such as ingredients or dish names.
+
 ##### Implementation: 
-                Employ a recipe API to fetch and exhibit a list of recipes based on the user's input.
+Employ a recipe API to fetch and exhibit a list of recipes based on the user's input.
+
 ##### Notes: 
-                Ensure that the application dynamically retrieves recipes as users type, ensuring a seamless search experience. You can use APIs like Edamam or Spoonacular for this purpose.
+Ensure that the application dynamically retrieves recipes as users type, ensuring a seamless search experience. You can use APIs like Edamam or Spoonacular for this purpose.
 
 #### Recipe Details Page:
 
 ##### Description: 
-                Enable users to access comprehensive information about a selected recipe, including its title, ingredients, cooking instructions, and an image.
+Enable users to access comprehensive information about a selected recipe, including its title, ingredients, cooking instructions, and an image.
+
 ##### Implementation: 
-                Display the recipe details on a distinct screen or page, ensuring a clear and user-friendly layout.
+Display the recipe details on a distinct screen or page, ensuring a clear and user-friendly layout.
 
 #### Favorite Recipes:
 
 ##### Description: 
-                Allow users to save their preferred recipes for future reference from the recipe details page.
+Allow users to save their preferred recipes for future reference from the recipe details page.
+
 ##### Implementation: 
-                Provide users with an option to save recipes, storing this data in local storage or async storage.
+Provide users with an option to save recipes, storing this data in local storage or async storage.
 
 #### Error Handling:
 
 ##### Description: 
-                Implement effective handling of failed API requests or instances where no results are found.
+Implement effective handling of failed API requests or instances where no results are found.
+
 ##### Implementation: 
-                Present user-friendly error messages and ensure that the application gracefully manages unexpected situations.
+Present user-friendly error messages and ensure that the application gracefully manages unexpected situations.
 
-    Styling and User Interface (UI/UX):
+Styling and User Interface (UI/UX):
 
-    Description: Apply an attractive and user-friendly design to the application.
-    Implementation: Create a responsive and Visually appealing UI/UX suitable for both web and mobile versions.
+Description: Apply an attractive and user-friendly design to the application.
+Implementation: Create a responsive and Visually appealing UI/UX suitable for both web and mobile versions.
 
 # Getting Started with Create React App
 
