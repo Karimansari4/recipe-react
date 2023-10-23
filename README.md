@@ -46,6 +46,9 @@ Styling and User Interface (UI/UX):
 Description: Apply an attractive and user-friendly design to the application.
 Implementation: Create a responsive and Visually appealing UI/UX suitable for both web and mobile versions.
 
+### Demo (https://653611e57c315e7e2431bac6--admirable-madeleine-82d26f.netlify.app/)
+### Rep (https://github.com/Karimansari4/recipe-react.git)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -116,6 +119,3 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
-
-
-https://653611e57c315e7e2431bac6--admirable-madeleine-82d26f.netlify.app/
