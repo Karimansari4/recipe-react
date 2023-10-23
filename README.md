@@ -46,8 +46,10 @@ Styling and User Interface (UI/UX):
 Description: Apply an attractive and user-friendly design to the application.
 Implementation: Create a responsive and Visually appealing UI/UX suitable for both web and mobile versions.
 
-### Demo (https://653611e57c315e7e2431bac6--admirable-madeleine-82d26f.netlify.app/)
-### Rep (https://github.com/Karimansari4/recipe-react.git)
+<h3>Demo Link -> <a href="https://653611e57c315e7e2431bac6--admirable-madeleine-82d26f.netlify.app/" target="_blank">Click here</a></h3>
+<h3>Repo Link -> <a href="https://github.com/Karimansari4/recipe-react.git" target="_blank">Click here</a></h3>
+<!-- ### Demo () -->
+<!-- ### Rep () -->
 
 # Getting Started with Create React App
 
