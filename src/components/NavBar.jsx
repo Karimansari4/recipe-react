@@ -1,4 +1,4 @@
-import { AppBar, Avatar, Badge, Box, Button, Container, IconButton, Menu, MenuItem, Toolbar, Tooltip, Typography } from '@mui/material';
+import { AppBar, Badge, Box, Button, Container, IconButton, Menu, MenuItem, Toolbar, Tooltip, Typography } from '@mui/material';
 import React, { useContext, useState } from 'react'
 import MenuIcon from '@mui/icons-material/Menu';
 import { Link } from 'react-router-dom';
@@ -7,23 +7,16 @@ import FavoriteIcon from '@mui/icons-material/Favorite';
 
 function NavBar() {
     const [anchorElNav, setAnchorElNav] = useState(null);
-    const [anchorElUser, setAnchorElUser] = useState(null);
-    const {favorite, setFavorite} = useContext(MyContext)
+    const {favorite} = useContext(MyContext)
   
     const handleOpenNavMenu = (event) => {
       setAnchorElNav(event.currentTarget);
-    };
-    const handleOpenUserMenu = (event) => {
-      setAnchorElUser(event.currentTarget);
     };
   
     const handleCloseNavMenu = () => {
       setAnchorElNav(null);
     };
   
-    const handleCloseUserMenu = () => {
-      setAnchorElUser(null);
-    };
     return (
         <AppBar position="static">
             <Container maxWidth="xl">

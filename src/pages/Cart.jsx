@@ -1,13 +1,12 @@
-import { Box, Grid, IconButton, InputAdornment, TextField, Typography } from '@mui/material'
+import { Box, Grid, IconButton, Typography } from '@mui/material'
 import React, { Fragment, useContext } from 'react'
 import { MyContext } from '../MyContext'
 import CardCom from '../components/CardCom'
-import LoadingComponent from '../components/LoadingComponent'
 import ArrowBackIcon from '@mui/icons-material/ArrowBack';
 import { useNavigate } from 'react-router-dom'
 
 function Cart() {
-    const { favorite, setFavorite} = useContext(MyContext)
+    const { favorite } = useContext(MyContext)
     const navigate = useNavigate()
     
 

@@ -1,7 +1,7 @@
-import { Box, Button, Card, CardActions, CardContent, CardMedia, Chip, Container, Divider, Grid, Icon, IconButton, ImageList, ImageListItem, ImageListItemBar, ListSubheader, Paper, Skeleton, Typography } from '@mui/material'
+import { Box, Card, CardContent, CardMedia, Chip, Divider, Grid, IconButton, ImageList, ImageListItem, ImageListItemBar, Paper, Skeleton, Typography } from '@mui/material'
 import axios from 'axios'
 import React, { useContext, useEffect, useState } from 'react'
-import { Link, useNavigate, useParams } from 'react-router-dom'
+import { useNavigate, useParams } from 'react-router-dom'
 import ArrowBackIcon from '@mui/icons-material/ArrowBack';
 import { MyContext } from '../MyContext';
 

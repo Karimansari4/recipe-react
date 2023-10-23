@@ -1,3 +1,37 @@
+# Project Details
+
+This project is create my ReactJs (https://react.dev/learn)
+
+And the UI designed using Material UI (https://mui.com/material-ui/getting-started/)
+
+### Features
+
+    Recipe Search:
+
+    Description: On the homepage, provide a search bar allowing users to seek recipes by entering keywords, such as ingredients or dish names.
+    Implementation: Employ a recipe API to fetch and exhibit a list of recipes based on the user's input.
+    Notes: Ensure that the application dynamically retrieves recipes as users type, ensuring a seamless search experience. You can use APIs like Edamam or Spoonacular for this purpose.
+
+    Recipe Details Page:
+
+    Description: Enable users to access comprehensive information about a selected recipe, including its title, ingredients, cooking instructions, and an image.
+    Implementation: Display the recipe details on a distinct screen or page, ensuring a clear and user-friendly layout.
+
+    Favorite Recipes:
+
+    Description: Allow users to save their preferred recipes for future reference from the recipe details page.
+    Implementation: Provide users with an option to save recipes, storing this data in local storage or async storage.
+
+    Error Handling:
+
+    Description: Implement effective handling of failed API requests or instances where no results are found.
+    Implementation: Present user-friendly error messages and ensure that the application gracefully manages unexpected situations.
+
+    Styling and User Interface (UI/UX):
+
+    Description: Apply an attractive and user-friendly design to the application.
+    Implementation: Create a responsive and Visually appealing UI/UX suitable for both web and mobile versions.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -68,3 +102,6 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+
+https://653611e57c315e7e2431bac6--admirable-madeleine-82d26f.netlify.app/

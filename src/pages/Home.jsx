@@ -1,10 +1,9 @@
-import { Box, /* Card, CardActions, CardContent, CardMedia ,*/ Grid, InputAdornment, TextField, Typography, /*IconButton,  Paper , Typography*/ } from '@mui/material'
+import { Box, /* Card, CardActions, CardContent, CardMedia ,*/ Grid, InputAdornment, TextField, } from '@mui/material'
 import axios from 'axios'
 import React, { Fragment, useContext, useEffect, useState } from 'react'
 import CardCom from '../components/CardCom'
 import SearchIcon from '@mui/icons-material/Search';
 import LoadingComponent from '../components/LoadingComponent';
-import { useParams } from 'react-router-dom';
 import { MyContext } from '../MyContext';
 
 
